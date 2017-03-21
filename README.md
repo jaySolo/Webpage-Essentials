@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+#**Webpage Essentials**
 
-You can use the [editor on GitHub](https://github.com/jaySolo/Webpage-Essentials/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you've just started working on your own webpage, have used templates to create your webpage or created a website using Microsoft's Visual Studio, you would have noticed that the websites tend to use a lot of stylesheets and javascripts. While they have their uses, they are a nightmare to go though and sometimes the slightest editing of any of the scripts and/or stylesheets can cause the entire page/site to develop serious flaws in its appearance and/or behaviour.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaySolo/Webpage-Essentials/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+As a developer who has encountered this problem and several others, I created this repository which will provide the tips and tricks that I encountered and utilized that can help to avoid this problem without negatively affecting the performance, functionality and visuals of the webpage/site that you're developing. 
